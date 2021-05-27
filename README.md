@@ -15,4 +15,4 @@ library(kaart)
 kaart(osalus[1:15,], fill=vahemik, labels=osalus, title="KOV valimistest 2013. osavõtt maakondade kaupa",  legend.title="Osalusmäär")
 ```
 
-<img src="data/kaart.png">
+![](kaart.png)

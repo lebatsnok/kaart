@@ -30,7 +30,7 @@ kaart(
 a ggplot
 }
 \description{
-Maakondade kaart
+Maakondade kaart (siia pikem kirjeldus!)
 }
 \details{
 tba

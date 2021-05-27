@@ -30,7 +30,7 @@ kaart2(
 a ggplot
 }
 \description{
-Maakondade kaart Tallinna ja Tartuga
+Maakondade kaart Tallinna ja Tartuga (siia pikem kirjeldus?!)
 }
 \details{
 tba

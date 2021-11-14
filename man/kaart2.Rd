@@ -25,6 +25,8 @@ kaart2(
 
 \item{legend.title}{legendi nimi}
 
+\item{textsize}{teksti suurus kaardil (nb! ühikute kohta vt https://stackoverflow.com/questions/25061822/ggplot-geom-text-font-size-control)}
+
 \item{annotation}{annotatsioon all paremal servas}
 }
 \value{

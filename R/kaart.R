@@ -7,6 +7,7 @@
 #' @param labels tunnuse nimi andmetabelist (tekst, mis läheb kaardile)
 #' @param title joonise nimi
 #' @param legend.title legendi nimi
+#' @param textsize teksti suurus kaardil (nb! ühikute kohta vt https://stackoverflow.com/questions/25061822/ggplot-geom-text-font-size-control)
 #' @param annotation annotatsioon all paremal servas
 #'
 #' @return a ggplot
@@ -39,6 +40,7 @@ kaart <- function(df, fill, labels, title="", legend.title = "", textsize = 7, a
 #' @param labels praegu kasutamata
 #' @param title joonise nimi
 #' @param legend.title legendi nimi
+#' @param textsize teksti suurus kaardil (nb! ühikute kohta vt https://stackoverflow.com/questions/25061822/ggplot-geom-text-font-size-control)
 #' @param annotation annotatsioon all paremal servas
 #'
 #' @return a ggplot

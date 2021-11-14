@@ -2,9 +2,9 @@ Package: kaart
 Type: Package
 Title: Andmed eesti kaardile
 Version: 0.1.0
-Author: Kenn 
+Author: Kenn Konstabel, Indrek Seppo
 Maintainer: Kenn <kenn.konstabel@tai.ee>
-Description: Maakondade andmed kergesti Eesti kaardile
+Description: Maakondade andmed tõhusalt Eesti kaardile
 License: $
 Encoding: UTF-8
 LazyData: true

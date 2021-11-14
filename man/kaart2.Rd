@@ -10,6 +10,7 @@ kaart2(
   labels,
   title = "",
   legend.title = "",
+  textsize = 7,
   annotation = "kaart: Maa-amet, 2021"
 )
 }

@@ -23,4 +23,4 @@ kaart(osalus[1:15,], fill=vahemik, labels=osalus, title="KOV valimistest 2013. o
 
 ### Märkmed
 
-githubi parooli uuendamine: credentials::set_github_pat("ghp_minu_uus_parool")
+githubi parooli uuendamine: credentials::set_github_pat() # sisesta kasti uus parool
